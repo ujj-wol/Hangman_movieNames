@@ -98,6 +98,8 @@ public class GuessTheMovie extends Game {
             System.out.println("\nn = " + n);
             System.out.println("\np = " + p);*/
 
+            //System.out.println("\n" + pickedMovie.indexOf(letter));
+
 
             if (b >= (pickedMovie.length() - countSpaces)) {
                 System.out.println("\nYou WIN!!");
